@@ -8,3 +8,6 @@ This is an MVC architecture-based application where the controller returns a pag
 
 1. **Clone the Repository and Navigate to the Directory**:
 
+'''bash
+git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
